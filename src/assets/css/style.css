@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layui-box{
+    max-width: 1200px;
+    margin: 0 auto;
+    background: yellowgreen;
+}
+
+nav{
+    overflow: hidden;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #616161;
+}
+
+ul>li{
+    list-style-type: none;
+}
