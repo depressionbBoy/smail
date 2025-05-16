@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <RouterLink to="/">Smail</RouterLink>
+        <RouterLink to="/">Smail1</RouterLink>
         <ul>
             <li>
                 <RouterLink to="/">首页</RouterLink>
